@@ -1,0 +1,17 @@
+langchain
+langgraph
+sqlalchemy
+pydantic
+chromadb 
+faiss-cpu
+pypdf
+streamlit 
+gradio
+anthropic 
+langchain-openai
+langchain-community
+langchain-classic
+langchain-text-splitters
+pytest
+mcp
+fastmcp
