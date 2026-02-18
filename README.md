@@ -7,6 +7,8 @@ A lightweight multi‑agent support assistant powered by:
 - **SQL + Docs agents**
 - **Streamlit** chat UI
 
+![](https://github.com/RyanStark223232/multi-agent-support-assistant/blob/master/demo.gif)
+
 ## Requirements
 
 - **Python 3.11**
